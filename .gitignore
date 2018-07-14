@@ -1,0 +1,11 @@
+Library/*
+[Tt]emp/
+[Oo]bj/
+Bin/
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+Moments Recorder/
+Assets/Moments Recorder.meta
